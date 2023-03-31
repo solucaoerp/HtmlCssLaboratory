@@ -36,6 +36,9 @@ p {
 .card img {
     width: 200px;
     height: 200px;
+    border: 1px solid red;
+    margin: 10px 40px 20px 30px; /* top -> right -> button -> left */
+    padding: 10px;
 }
 
 /* Seletor de Id - NÃO PODE atribuir a elementos distindos (conceitualmente) */

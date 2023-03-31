@@ -24,7 +24,7 @@ Algumas das tags de seção mais comuns são:
 
 - **`<header>`**: é uma tag semântica usada para representar o cabeçalho de uma seção ou da página inteira. Ela pode conter um título, uma logo, uma navegação e outras informações importantes.
 
-- **`<footer>`**: é uma tag semântica usada para representar o rodapé de uma seção ou da página inteira. Ela pode conter informações de contato, direitos autorais, links de redes sociais e outros conteúdos importantes.
+- **`<footer>`** é uma tag semântica usada para representar o rodapé de uma seção ou da página inteira. Ela pode conter informações de contato, direitos autorais, links de redes sociais e outros conteúdos importantes.
 
 Em geral, é importante usar as tags de seção apropriadas para cada tipo de conteúdo, para que a página seja bem estruturada e semântica. As tags semânticas ajudam a melhorar a acessibilidade e a usabilidade da página, além de serem importantes para a otimização do mecanismo de busca e para a interpretação correta do conteúdo em diferentes plataformas.
 

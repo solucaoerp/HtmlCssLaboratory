@@ -16,7 +16,7 @@ Algumas das tags de seção mais comuns são:
 
 - <**div**>: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Ela não possui nenhuma semântica específica, mas é amplamente usada para criar layouts e estruturas de páginas.
 
-- <**span**>: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Assim como a tag **<div>**, ela não possui nenhuma semântica específica, mas é usada para agrupar elementos em um contexto comum.
+- <**span**>: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Assim como a tag <**div**>, ela não possui nenhuma semântica específica, mas é usada para agrupar elementos em um contexto comum.
 
 - <**section**>: é uma tag semântica usada para representar uma seção lógica do conteúdo da página. Ela pode ser usada para dividir o conteúdo em capítulos, partes, tópicos, etc. Cada seção deve ter um cabeçalho identificando seu título ou assunto.
 

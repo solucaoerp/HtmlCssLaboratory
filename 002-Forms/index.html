@@ -33,6 +33,48 @@
                     <label for="ctrl-password">Senha</label>
                     <input id="ctrl-password" type="password" placeholder="Digite sua Senha" name="password">
                 </div>
+
+                <div>
+                    <label for="ctrl-city">Cidade</label>
+                    <select name="city" id="ctrl-city">
+                        <option value="1">São Paulo</option>
+                        <option value="2">Belo Horizonte</option>
+                        <option value="3">Recife</option>
+                        <option value="4">Porto Alegre</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="ctrl-level">Escolaridade</label>
+                    <div id="ctrl-level">
+                        <input type="radio" name="level" id="ctrl-level-1">
+                        <label for="ctrl-level-1">Fundamental</label>
+
+                        <input type="radio" name="level" id="ctrl-level-2">
+                        <label for="ctrl-level-2">Médio</label>
+
+                        <input type="radio" name="level" id="ctrl-level-3">
+                        <label for="ctrl-level-3">Superior</label>
+                    </div>
+                </div>
+
+                <div>
+                    <label for="ctrl-languages">Linguagens de você conhece</label>
+                    <div id="ctrl-languages">
+                        <input type="checkbox" id="ctrl-languages-java" name="language1">
+                        <label for="ctrl-languages-java">Java</label>
+
+                        <input type="checkbox" id="ctrl-languages-csharp" name="language2">
+                        <label for="ctrl-languages-csharp">C#</label>
+
+                        <input type="checkbox" id="ctrl-languages-js" name="language3">
+                        <label for="ctrl-languages-js">JavaScript</label>
+
+                        <input type="checkbox" id="ctrl-languages-python" name="language4">
+                        <label for="ctrl-languages-python">Python</label>
+                    </div>
+                </div>
+
                 <input type="submit" value="Enviar">
                 <input type="reset" value="Limpar Formulário">
             </form>

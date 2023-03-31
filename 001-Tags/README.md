@@ -14,17 +14,17 @@ São elementos HTML usados para dividir o conteúdo de uma página em seções d
 
 Algumas das tags de seção mais comuns são:
 
-- ```html <div> ```: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Ela não possui nenhuma semântica específica, mas é amplamente usada para criar layouts e estruturas de páginas.
+- **`<div>`**: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Ela não possui nenhuma semântica específica, mas é amplamente usada para criar layouts e estruturas de páginas.
 
-- ```html <span> ```: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Assim como a tag ```html <div> ```, ela não possui nenhuma semântica específica, mas é usada para agrupar elementos em um contexto comum.
+- **`<span>`**: é uma tag genérica usada para agrupar elementos de uma página em uma seção comum. Assim como a tag **`<div>`**, ela não possui nenhuma semântica específica, mas é usada para agrupar elementos em um contexto comum.
 
-- ```html <section> ```: é uma tag semântica usada para representar uma seção lógica do conteúdo da página. Ela pode ser usada para dividir o conteúdo em capítulos, partes, tópicos, etc. Cada seção deve ter um cabeçalho identificando seu título ou assunto.
+- **`<section>`**: é uma tag semântica usada para representar uma seção lógica do conteúdo da página. Ela pode ser usada para dividir o conteúdo em capítulos, partes, tópicos, etc. Cada seção deve ter um cabeçalho identificando seu título ou assunto.
 
-- ```html <article> ```: é uma tag semântica usada para representar um conteúdo completo e independente dentro da página. Ela pode ser usada para artigos, postagens de blog, notícias, etc. Cada artigo deve ter um cabeçalho identificando seu título e, opcionalmente, um rodapé com informações adicionais.
+- **`<article>`**: é uma tag semântica usada para representar um conteúdo completo e independente dentro da página. Ela pode ser usada para artigos, postagens de blog, notícias, etc. Cada artigo deve ter um cabeçalho identificando seu título e, opcionalmente, um rodapé com informações adicionais.
 
-- ```html <header> ```: é uma tag semântica usada para representar o cabeçalho de uma seção ou da página inteira. Ela pode conter um título, uma logo, uma navegação e outras informações importantes.
+- **`<header>`**: é uma tag semântica usada para representar o cabeçalho de uma seção ou da página inteira. Ela pode conter um título, uma logo, uma navegação e outras informações importantes.
 
-- ```html <footer> ```: é uma tag semântica usada para representar o rodapé de uma seção ou da página inteira. Ela pode conter informações de contato, direitos autorais, links de redes sociais e outros conteúdos importantes.
+- **`<footer>`**: é uma tag semântica usada para representar o rodapé de uma seção ou da página inteira. Ela pode conter informações de contato, direitos autorais, links de redes sociais e outros conteúdos importantes.
 
 Em geral, é importante usar as tags de seção apropriadas para cada tipo de conteúdo, para que a página seja bem estruturada e semântica. As tags semânticas ajudam a melhorar a acessibilidade e a usabilidade da página, além de serem importantes para a otimização do mecanismo de busca e para a interpretação correta do conteúdo em diferentes plataformas.
 

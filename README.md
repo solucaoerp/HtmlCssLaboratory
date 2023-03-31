@@ -1,3 +1,5 @@
+# Considerações Gerais
+
 ### Propriedades "Display"
 
 Determina como o elemento será exibido na página. Os dois valores mais comuns para essa propriedade são **block** e **inline**.

@@ -1,0 +1,41 @@
+/* Seletor asterisco '*' - atribui a todos os elementos */
+
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/* Seletor de Tag */
+
+h1, h2 {
+    color: blue;
+}
+
+h1:hover {
+    color: aqua;
+    cursor: pointer;
+}
+
+p {
+    color: green;
+}
+
+/* Seletor de Classe (prioritário) - PODE atribuir em elementos distintos */
+
+.cor-laranja {
+    color: orange;
+}
+
+.cor-laranja:hover {
+    color: rgb(218, 165, 67);
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+}
+
+/* Seletor de Id - NÃO PODE atribuir a elementos distindos (conceitualmente) */
+
+#titles {
+    background-color: aqua;
+}

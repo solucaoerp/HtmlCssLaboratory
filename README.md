@@ -30,3 +30,8 @@ Algumas das tags de seção mais comuns são:
 
 Em geral, é importante usar as tags de seção apropriadas para cada tipo de conteúdo, para que a página seja bem estruturada e semântica. As tags semânticas ajudam a melhorar a acessibilidade e a usabilidade da página, além de serem importantes para a otimização do mecanismo de busca e para a interpretação correta do conteúdo em diferentes plataformas.
 
+
+
+### Fontes
+
+- [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "Flexbox")

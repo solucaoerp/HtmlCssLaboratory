@@ -35,3 +35,7 @@ Em geral, é importante usar as tags de seção apropriadas para cada tipo de co
 ### Fontes
 
 - [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/ "Flexbox")
+
+- [Pseudo Elementos](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements "Pseudo Elementos")
+
+- [Pseudo Classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes "Pseudo Classes")

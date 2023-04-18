@@ -38,3 +38,7 @@ Em geral, é importante usar as tags de seção apropriadas para cada tipo de co
 - [Pseudo Elementos](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-elements "Pseudo Elementos")
 - [Pseudo Classes](https://developer.mozilla.org/pt-BR/docs/Web/CSS/Pseudo-classes "Pseudo Classes")
 - [:root](https://developer.mozilla.org/pt-BR/docs/Web/CSS/:root ":root")
+- [Start Bootstrap (Profile)](https://startbootstrap.github.io/startbootstrap-freelancer "Start Bootstrap (Profile)")
+- [Bootstrap Breakpoints (responsividade)](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap Breakpoints (responsividade)")
+- [HTML Semantic Elements W3S](https://www.w3schools.com/html/html5_semantic_elements.asp "HTML Semantic Elements W3S")
+- [Google Fonts](https://fonts.google.com/ "Google Fonts")

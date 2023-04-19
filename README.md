@@ -42,3 +42,4 @@ Em geral, é importante usar as tags de seção apropriadas para cada tipo de co
 - [Bootstrap Breakpoints (responsividade)](https://getbootstrap.com/docs/5.0/layout/breakpoints/ "Bootstrap Breakpoints (responsividade)")
 - [HTML Semantic Elements W3S](https://www.w3schools.com/html/html5_semantic_elements.asp "HTML Semantic Elements W3S")
 - [Google Fonts](https://fonts.google.com/ "Google Fonts")
+- [CSS Units](https://www.w3schools.com/cssref/css_units.php "CSS Units")
